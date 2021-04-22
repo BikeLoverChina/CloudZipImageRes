@@ -22,3 +22,4 @@
 > 5.搜索图片根据[UIScreen mainScreen].scale来决定加载2x图还是3x图,所以要保证图片必须有2x和3x
 >
 > 6.demo为在ipad上验证,如需使用请自行验证
+>7.info.json中的测试地址随时可能下掉
